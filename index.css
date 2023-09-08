@@ -9,6 +9,16 @@ body {
     height: 29rem;
     width: 22rem;
     position: relative;
-    top: 15em;
+    
     border-radius: 20px;
+}
+
+.blue-box {
+    background-color:#317df2;
+    height: 17rem;
+    width: 18rem;
+    border-radius: 20px;
+    margin: 0 auto;
+    position: relative;
+    top: 2em;
 }
