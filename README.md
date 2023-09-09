@@ -2,10 +2,6 @@
 ## Overview
 This will be my first challenge ever so I'm excited about it. I have recently finished a HTML and CSS course so I'm hopeful about seeeing where this leads to. Most likely I will be making a few mistakes along the road but considering my experience that should be understandable. 
 
-### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 I first focus on building the white box which my image is supposed to placed upon. After creating a div and giving it a height&width, I quickly try to center it on the screen.
 
